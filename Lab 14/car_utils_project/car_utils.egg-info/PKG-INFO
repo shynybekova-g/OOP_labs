@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: car_utils
+Version: 0.1.0
+Summary: Simple car-related utilities package for educational purposes.
+Author-email: Student Name <student@example.com>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
