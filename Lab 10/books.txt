@@ -1,0 +1,12 @@
+Python Programming, 3500
+Data Analytics, 4200
+Machine Learning Basics, 4800
+Deep Learning Guide, 5000
+AI for Everyone, 3900
+Computer Vision, 5500
+Natural Language Processing, 4600
+Big Data Fundamentals, 4000
+Cybersecurity 101, 4300
+Cloud Computing, 4700
+
+Computer Networking, 6000
