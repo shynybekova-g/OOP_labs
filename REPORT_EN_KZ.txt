@@ -1,0 +1,23 @@
+Library Management System / Кітапхана Басқару Жүйесі
+----------------------------------------------------
+Student: Shynybekova uldei / Шыныбекова Гулдей
+Course: Object-Oriented Programming / Объектке Бағытталған Бағдарламалау
+Language: Python
+
+1) Introduction / Кіріспе
+This small Library Management System allows staff to add books and users, readers to search for books by title or author, and borrow/return books.
+Бұл шағын жүйе қызметкерлерге кітаптар мен қолданушыларды қосуға, оқырмандарға іздеуге және кітаптарды алу/қайтаруға мүмкіндік береді.
+
+2) Architecture Rationale / Архитектура негіздемесі
+- Central Library class implemented as a Singleton manages books and users.
+- Person is an abstract base class; Reader and Staff inherit from it.
+- Search functionality uses Strategy pattern to separate search behaviors.
+- UserFactory demonstrates a simple Factory pattern.
+
+3) OOP Principles / ООП принциптері
+- Encapsulation: private fields (prefixed with underscore) and properties.
+- Inheritance: Reader and Staff inherit from Person.
+- Polymorphism: SearchStrategy is an abstract interface implemented by concrete strategies.
+- Abstraction: Person and SearchStrategy are abstract concepts.
+
+
